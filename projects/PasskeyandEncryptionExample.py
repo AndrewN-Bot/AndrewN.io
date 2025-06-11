@@ -1,0 +1,1 @@
+# Sample Python encryption script
