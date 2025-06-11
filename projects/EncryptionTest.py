@@ -1,1 +1,0 @@
-# Sample Python encryption test script
