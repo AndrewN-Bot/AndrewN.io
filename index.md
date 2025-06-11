@@ -5,7 +5,7 @@ title: Andrew N. Nunez
 
 # 👋 Andrew N. Nunez
 
-Cybersecurity graduate student at Fordham University with experience in SQL databases, IT systems, and secure data handling.
+Cybersecurity graduate from Fordham University with experience in SQL databases, IT systems, and secure data handling.
 
 ---
 
