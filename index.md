@@ -14,7 +14,7 @@ Cybersecurity graduate student at Fordham University with experience in SQL data
 ### 📖 A Balanced Scale: Convenience & Security in the Age of AI
 A capstone paper exploring trade-offs between cybersecurity and user convenience. Covers compliance, AI privacy, and real-world data security cases.
 
-- 📄 [Read the Paper](projects/balanced_scale.docx)
+- 📄 [Read the Paper](projects/A Balanced Scale_ Convenience and Security within the Age of AI.docx)
 
 ---
 
